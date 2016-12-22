@@ -1,0 +1,132 @@
+2016-12-20 18:03:30 FIN    nackademin.java.Terminal MainMenu - User is alivejava.util.Scanner[delimiters=\p{javaWhitespace}+][position=13][match valid=true][need input=false][source closed=false][skipped=false][group separator=\ ][decimal separator=\,][positive prefix=][negative prefix=\Q-\E][positive suffix=][negative suffix=][NaN string=\Q�\E][infinity string=\Q∞\E]
+2016-12-20 18:05:59 FIN    nackademin.java.Terminal MainMenu - User is alivejava.util.Scanner[delimiters=\p{javaWhitespace}+][position=10][match valid=true][need input=false][source closed=false][skipped=false][group separator=\ ][decimal separator=\,][positive prefix=][negative prefix=\Q-\E][positive suffix=][negative suffix=][NaN string=\Q�\E][infinity string=\Q∞\E]
+2016-12-20 18:06:08 FIN    nackademin.java.Terminal MainMenu - User is alivejava.util.Scanner[delimiters=\p{javaWhitespace}+][position=5][match valid=true][need input=false][source closed=false][skipped=false][group separator=\ ][decimal separator=\,][positive prefix=][negative prefix=\Q-\E][positive suffix=][negative suffix=][NaN string=\Q�\E][infinity string=\Q∞\E]
+2016-12-20 18:08:20 FIN    nackademin.java.Terminal MainMenu - User is alivejava.util.Scanner[delimiters=\p{javaWhitespace}+][position=5][match valid=true][need input=false][source closed=false][skipped=false][group separator=\ ][decimal separator=\,][positive prefix=][negative prefix=\Q-\E][positive suffix=][negative suffix=][NaN string=\Q�\E][infinity string=\Q∞\E]
+2016-12-21 10:08:20 FIN    nackademin.java.Terminal MainMenu - User is alivejava.util.Scanner[delimiters=\p{javaWhitespace}+][position=5][match valid=true][need input=false][source closed=false][skipped=false][group separator=\ ][decimal separator=\,][positive prefix=][negative prefix=\Q-\E][positive suffix=][negative suffix=][NaN string=\Q�\E][infinity string=\Q∞\E]
+2016-12-21 10:08:31 FIN    nackademin.java.Terminal MainMenu - User is alivejava.util.Scanner[delimiters=\p{javaWhitespace}+][position=44][match valid=true][need input=false][source closed=false][skipped=false][group separator=\ ][decimal separator=\,][positive prefix=][negative prefix=\Q-\E][positive suffix=][negative suffix=][NaN string=\Q�\E][infinity string=\Q∞\E]
+2016-12-21 10:08:34 FIN    nackademin.java.Terminal MainMenu - User is alivejava.util.Scanner[delimiters=\p{javaWhitespace}+][position=5][match valid=true][need input=false][source closed=false][skipped=false][group separator=\ ][decimal separator=\,][positive prefix=][negative prefix=\Q-\E][positive suffix=][negative suffix=][NaN string=\Q�\E][infinity string=\Q∞\E]
+2016-12-21 10:08:46 FIN    nackademin.java.Terminal MainMenu - User is alivejava.util.Scanner[delimiters=\p{javaWhitespace}+][position=44][match valid=true][need input=false][source closed=false][skipped=false][group separator=\ ][decimal separator=\,][positive prefix=][negative prefix=\Q-\E][positive suffix=][negative suffix=][NaN string=\Q�\E][infinity string=\Q∞\E]
+2016-12-21 10:14:07 FIN    nackademin.java.Terminal MainMenu - User is alivejava.util.Scanner[delimiters=\p{javaWhitespace}+][position=5][match valid=true][need input=false][source closed=false][skipped=false][group separator=\ ][decimal separator=\,][positive prefix=][negative prefix=\Q-\E][positive suffix=][negative suffix=][NaN string=\Q�\E][infinity string=\Q∞\E]
+2016-12-21 10:14:20 FIN    nackademin.java.Terminal MainMenu - User is alivejava.util.Scanner[delimiters=\p{javaWhitespace}+][position=44][match valid=true][need input=false][source closed=false][skipped=false][group separator=\ ][decimal separator=\,][positive prefix=][negative prefix=\Q-\E][positive suffix=][negative suffix=][NaN string=\Q�\E][infinity string=\Q∞\E]
+2016-12-21 10:14:22 FIN    nackademin.java.Terminal MainMenu - User is alivejava.util.Scanner[delimiters=\p{javaWhitespace}+][position=5][match valid=true][need input=false][source closed=false][skipped=false][group separator=\ ][decimal separator=\,][positive prefix=][negative prefix=\Q-\E][positive suffix=][negative suffix=][NaN string=\Q�\E][infinity string=\Q∞\E]
+2016-12-21 10:14:34 FIN    nackademin.java.Terminal MainMenu - User is alivejava.util.Scanner[delimiters=\p{javaWhitespace}+][position=44][match valid=true][need input=false][source closed=false][skipped=false][group separator=\ ][decimal separator=\,][positive prefix=][negative prefix=\Q-\E][positive suffix=][negative suffix=][NaN string=\Q�\E][infinity string=\Q∞\E]
+2016-12-21 10:14:38 FIN    nackademin.java.Terminal MainMenu - User is alivejava.util.Scanner[delimiters=\p{javaWhitespace}+][position=5][match valid=true][need input=false][source closed=false][skipped=false][group separator=\ ][decimal separator=\,][positive prefix=][negative prefix=\Q-\E][positive suffix=][negative suffix=][NaN string=\Q�\E][infinity string=\Q∞\E]
+2016-12-21 10:14:51 FIN    nackademin.java.Terminal MainMenu - User is alivejava.util.Scanner[delimiters=\p{javaWhitespace}+][position=44][match valid=true][need input=false][source closed=false][skipped=false][group separator=\ ][decimal separator=\,][positive prefix=][negative prefix=\Q-\E][positive suffix=][negative suffix=][NaN string=\Q�\E][infinity string=\Q∞\E]
+2016-12-21 10:14:53 FIN    nackademin.java.Terminal MainMenu - User is alivejava.util.Scanner[delimiters=\p{javaWhitespace}+][position=5][match valid=true][need input=false][source closed=false][skipped=false][group separator=\ ][decimal separator=\,][positive prefix=][negative prefix=\Q-\E][positive suffix=][negative suffix=][NaN string=\Q�\E][infinity string=\Q∞\E]
+2016-12-21 10:15:16 FIN    nackademin.java.Terminal MainMenu - User is alivejava.util.Scanner[delimiters=\p{javaWhitespace}+][position=44][match valid=true][need input=false][source closed=false][skipped=false][group separator=\ ][decimal separator=\,][positive prefix=][negative prefix=\Q-\E][positive suffix=][negative suffix=][NaN string=\Q�\E][infinity string=\Q∞\E]
+2016-12-21 10:15:18 FIN    nackademin.java.Terminal MainMenu - User is alivejava.util.Scanner[delimiters=\p{javaWhitespace}+][position=5][match valid=true][need input=false][source closed=false][skipped=false][group separator=\ ][decimal separator=\,][positive prefix=][negative prefix=\Q-\E][positive suffix=][negative suffix=][NaN string=\Q�\E][infinity string=\Q∞\E]
+2016-12-21 10:15:18 FIN    nackademin.java.Terminal MainMenu - user terminated program without errors.
+2016-12-21 10:31:58 FIN    nackademin.java.SerializeContacts load - Load complete.
+2016-12-21 10:32:29 FIN    nackademin.java.Terminal MainMenu - Contact added.
+2016-12-21 10:32:39 FIN    nackademin.java.Terminal MainMenu - user terminated program without errors.
+2016-12-21 10:37:56 INFO   nackademin.java.RunApplication startProgram - Program started.
+2016-12-21 10:37:56 FIN    nackademin.java.SerializeContacts load - Load complete.
+2016-12-21 10:38:02 INFO   nackademin.java.Terminal MainMenu - Successfully terminated program.
+2016-12-21 10:40:16 INFO   nackademin.java.RunApplication startProgram - Program started.
+2016-12-21 10:40:21 INFO   nackademin.java.AutoSaver lambda$autoSave$0 - Successful autosave.
+2016-12-21 10:40:26 INFO   nackademin.java.AutoSaver lambda$autoSave$0 - Successful autosave.
+2016-12-21 10:42:20 INFO   nackademin.java.RunApplication startProgram - Program started.
+2016-12-21 10:42:21 INFO   nackademin.java.Terminal MainMenu - User typed somethingjava.util.Scanner[delimiters=\p{javaWhitespace}+][position=0][match valid=false][need input=false][source closed=false][skipped=false][group separator=\ ][decimal separator=\,][positive prefix=][negative prefix=\Q-\E][positive suffix=][negative suffix=][NaN string=\Q�\E][infinity string=\Q∞\E]
+2016-12-21 10:42:26 INFO   nackademin.java.AutoSaver lambda$autoSave$0 - Successful autosave.
+2016-12-21 10:42:31 INFO   nackademin.java.AutoSaver lambda$autoSave$0 - Successful autosave.
+2016-12-21 10:42:36 INFO   nackademin.java.AutoSaver lambda$autoSave$0 - Successful autosave.
+2016-12-21 10:42:41 INFO   nackademin.java.AutoSaver lambda$autoSave$0 - Successful autosave.
+2016-12-21 10:42:43 INFO   nackademin.java.Terminal MainMenu - User typed somethingjava.util.Scanner[delimiters=\p{javaWhitespace}+][position=0][match valid=false][need input=false][source closed=false][skipped=false][group separator=\ ][decimal separator=\,][positive prefix=][negative prefix=\Q-\E][positive suffix=][negative suffix=][NaN string=\Q�\E][infinity string=\Q∞\E]
+2016-12-21 10:42:46 INFO   nackademin.java.AutoSaver lambda$autoSave$0 - Successful autosave.
+2016-12-21 10:44:08 INFO   nackademin.java.RunApplication startProgram - Program started.
+2016-12-21 10:44:13 INFO   nackademin.java.AutoSaver lambda$autoSave$0 - Successful autosave.
+2016-12-21 10:44:16 INFO   nackademin.java.Terminal MainMenu - User typed somethinglist
+2016-12-21 10:44:18 INFO   nackademin.java.AutoSaver lambda$autoSave$0 - Successful autosave.
+2016-12-21 10:47:28 INFO   nackademin.java.RunApplication startProgram - Program started.
+2016-12-21 10:47:33 INFO   nackademin.java.AutoSaver lambda$autoSave$0 - Autosave complete.
+2016-12-21 10:47:35 INFO   nackademin.java.Terminal MainMenu - User typed a valid command.: list
+2016-12-21 10:47:38 INFO   nackademin.java.AutoSaver lambda$autoSave$0 - Autosave complete.
+2016-12-21 10:47:43 INFO   nackademin.java.AutoSaver lambda$autoSave$0 - Autosave complete.
+2016-12-21 10:47:48 INFO   nackademin.java.AutoSaver lambda$autoSave$0 - Autosave complete.
+2016-12-21 10:48:18 INFO   nackademin.java.RunApplication startProgram - Program started.
+2016-12-21 10:48:21 INFO   nackademin.java.Terminal MainMenu - User typed a valid command.: ffwe
+2016-12-21 10:48:45 INFO   nackademin.java.RunApplication startProgram - Program started.
+2016-12-21 10:51:59 INFO   nackademin.java.RunApplication startProgram - Program started.
+2016-12-21 10:52:32 INFO   nackademin.java.RunApplication startProgram - Program started.
+2016-12-21 10:54:19 INFO   nackademin.java.RunApplication startProgram - Program started.
+2016-12-21 10:54:44 INFO   nackademin.java.RunApplication startProgram - Program started.
+2016-12-21 10:55:00 INFO   nackademin.java.RunApplication startProgram - Program started.
+2016-12-21 10:56:47 INFO   nackademin.java.RunApplication startProgram - Program started.
+2016-12-21 10:58:16 INFO   nackademin.java.RunApplication startProgram - Program started.
+2016-12-21 11:02:01 INFO   nackademin.java.RunApplication startProgram - Program started.
+2016-12-21 11:04:35 INFO   nackademin.java.RunApplication startProgram - Program started.
+2016-12-21 11:04:54 INFO   nackademin.java.RunApplication startProgram - Program started.
+2016-12-21 11:05:48 INFO   nackademin.java.RunApplication startProgram - Program started.
+2016-12-21 11:06:17 INFO   nackademin.java.RunApplication startProgram - Program started.
+2016-12-21 11:06:36 INFO   nackademin.java.RunApplication startProgram - Program started.
+2016-12-21 11:08:18 INFO   nackademin.java.RunApplication startProgram - Program started.
+2016-12-21 11:09:28 INFO   nackademin.java.RunApplication startProgram - Program started.
+2016-12-21 21:06:40 INFO   nackademin.java.RunApplication startProgram - Program started.
+2016-12-21 21:08:37 INFO   nackademin.java.Terminal MainMenu - Successfully terminated program.
+2016-12-21 21:08:44 INFO   nackademin.java.RunApplication startProgram - Program started.
+2016-12-21 21:10:01 INFO   nackademin.java.RunApplication startProgram - Program started.
+2016-12-21 21:10:10 INFO   nackademin.java.Terminal MainMenu - user added contact.java.util.Scanner[delimiters=\p{javaWhitespace}+][position=39][match valid=true][need input=false][source closed=false][skipped=false][group separator=\ ][decimal separator=\,][positive prefix=][negative prefix=\Q-\E][positive suffix=][negative suffix=][NaN string=\Q�\E][infinity string=\Q∞\E]
+2016-12-21 21:10:32 INFO   nackademin.java.RunApplication startProgram - Program started.
+2016-12-21 21:13:26 INFO   nackademin.java.RunApplication startProgram - Program started.
+2016-12-21 21:13:31 ALLVARLIG nackademin.java.Terminal MainMenu - User tried an invalid command: 
+2016-12-21 21:13:41 ALLVARLIG nackademin.java.Terminal MainMenu - User tried an invalid command: 
+2016-12-21 21:13:44 ALLVARLIG nackademin.java.Terminal MainMenu - User tried an invalid command: 
+2016-12-21 21:14:07 INFO   nackademin.java.RunApplication startProgram - Program started.
+2016-12-21 21:14:10 ALLVARLIG nackademin.java.Terminal MainMenu - User tried an invalid command: 
+2016-12-21 21:14:13 ALLVARLIG nackademin.java.Terminal MainMenu - User tried an invalid command: 
+2016-12-21 21:14:16 ALLVARLIG nackademin.java.Terminal MainMenu - User tried an invalid command: 
+2016-12-21 21:14:45 INFO   nackademin.java.RunApplication startProgram - Program started.
+2016-12-21 21:14:46 ALLVARLIG nackademin.java.Terminal MainMenu - User tried an invalid command: 
+2016-12-21 21:14:52 ALLVARLIG nackademin.java.Terminal MainMenu - User tried an invalid command: 
+2016-12-21 21:14:54 ALLVARLIG nackademin.java.Terminal MainMenu - User tried an invalid command: 
+2016-12-21 21:15:34 INFO   nackademin.java.RunApplication startProgram - Program started.
+2016-12-21 21:15:35 ALLVARLIG nackademin.java.Terminal MainMenu - User tried an invalid command: 
+2016-12-21 21:16:02 INFO   nackademin.java.RunApplication startProgram - Program started.
+2016-12-21 21:16:14 INFO   nackademin.java.Terminal MainMenu - User input: 
+2016-12-21 21:16:31 INFO   nackademin.java.Terminal MainMenu - User input: 
+2016-12-21 21:17:03 INFO   nackademin.java.RunApplication startProgram - Program started.
+2016-12-21 21:17:44 INFO   nackademin.java.RunApplication startProgram - Program started.
+2016-12-21 21:17:46 INFO   nackademin.java.Terminal MainMenu - User input: list
+2016-12-21 21:19:37 INFO   nackademin.java.RunApplication startProgram - Program started.
+2016-12-21 21:19:39 INFO   nackademin.java.Terminal MainMenu - User input: list
+2016-12-21 21:19:48 INFO   nackademin.java.Terminal MainMenu - User input: delete
+2016-12-21 21:20:01 INFO   nackademin.java.Terminal MainMenu - User input: list
+2016-12-21 21:20:03 INFO   nackademin.java.Terminal MainMenu - User input: list
+2016-12-21 21:20:22 INFO   nackademin.java.Terminal MainMenu - User input: delete
+2016-12-21 21:28:57 INFO   nackademin.java.Terminal MainMenu - User input: list
+2016-12-21 21:30:07 INFO   nackademin.java.RunApplication startProgram - Program started.
+2016-12-21 21:31:09 INFO   nackademin.java.RunApplication startProgram - Program started.
+2016-12-21 21:31:37 INFO   nackademin.java.RunApplication startProgram - Program started.
+2016-12-21 21:34:33 INFO   nackademin.java.RunApplication startProgram - Program started.
+2016-12-21 21:34:35 INFO   nackademin.java.Terminal MainMenu - User input: list
+2016-12-21 21:34:47 INFO   nackademin.java.Terminal MainMenu - User input: add
+2016-12-21 21:34:49 INFO   nackademin.java.Terminal MainMenu - User input: list
+2016-12-21 21:38:39 INFO   nackademin.java.RunApplication startProgram - Program started.
+2016-12-21 21:38:41 INFO   nackademin.java.Terminal MainMenu - User input: list
+2016-12-21 21:38:53 INFO   nackademin.java.Terminal MainMenu - User input: delete
+2016-12-21 21:38:55 INFO   nackademin.java.Terminal MainMenu - User input: list
+2016-12-21 21:39:05 INFO   nackademin.java.Terminal MainMenu - User input: delete
+2016-12-21 21:39:07 INFO   nackademin.java.Terminal MainMenu - User input: list
+2016-12-21 21:39:09 INFO   nackademin.java.Terminal MainMenu - User input: list
+2016-12-21 21:39:55 INFO   nackademin.java.RunApplication startProgram - Program started.
+2016-12-21 21:39:57 INFO   nackademin.java.Terminal MainMenu - User input: list
+2016-12-21 21:41:01 INFO   nackademin.java.RunApplication startProgram - Program started.
+2016-12-21 21:41:03 INFO   nackademin.java.Terminal MainMenu - User input: list
+2016-12-21 21:44:21 INFO   nackademin.java.RunApplication startProgram - Program started.
+2016-12-21 21:44:36 ALLVARLIG nackademin.java.Terminal MainMenu - User tried an invalid command: 
+2016-12-21 21:44:53 INFO   nackademin.java.Terminal MainMenu - User input: help
+2016-12-21 21:46:00 INFO   nackademin.java.Terminal MainMenu - User input: add
+2016-12-21 21:46:16 INFO   nackademin.java.Terminal MainMenu - User input: list
+2016-12-21 21:46:32 INFO   nackademin.java.Terminal MainMenu - User input: search
+2016-12-21 21:46:46 INFO   nackademin.java.Terminal MainMenu - User input: search
+2016-12-21 21:47:01 INFO   nackademin.java.Terminal MainMenu - User input: search
+2016-12-21 21:47:34 INFO   nackademin.java.Terminal MainMenu - User input: search
+2016-12-21 21:47:37 INFO   nackademin.java.Terminal MainMenu - User input: search
+2016-12-21 21:57:20 INFO   nackademin.java.RunApplication startProgram - Program started.
+2016-12-21 21:57:23 INFO   nackademin.java.Terminal MainMenu - User input: help
+2016-12-21 21:58:41 INFO   nackademin.java.RunApplication startProgram - Program started.
+2016-12-21 21:58:43 INFO   nackademin.java.Terminal MainMenu - User input: help
+2016-12-21 21:59:11 INFO   nackademin.java.RunApplication startProgram - Program started.
+2016-12-21 21:59:13 INFO   nackademin.java.Terminal MainMenu - User input: help
+2016-12-21 22:01:06 INFO   nackademin.java.RunApplication startProgram - Program started.
+2016-12-21 22:01:09 INFO   nackademin.java.Terminal MainMenu - User input: help
