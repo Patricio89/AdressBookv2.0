@@ -130,3 +130,74 @@
 2016-12-21 21:59:13 INFO   nackademin.java.Terminal MainMenu - User input: help
 2016-12-21 22:01:06 INFO   nackademin.java.RunApplication startProgram - Program started.
 2016-12-21 22:01:09 INFO   nackademin.java.Terminal MainMenu - User input: help
+2016-12-22 16:03:35 INFO   nackademin.java.RunApplication startProgram - Program started.
+2016-12-22 16:07:12 INFO   nackademin.java.Terminal MainMenu - User input: list
+2016-12-22 16:07:22 INFO   nackademin.java.Terminal MainMenu - User input: delete
+2016-12-22 16:07:24 INFO   nackademin.java.Terminal MainMenu - User input: list
+2016-12-22 16:07:29 INFO   nackademin.java.Terminal MainMenu - User input: list
+2016-12-22 16:07:38 INFO   nackademin.java.Terminal MainMenu - User input: add
+2016-12-22 16:08:32 INFO   nackademin.java.Terminal MainMenu - User input: search
+2016-12-22 16:08:32 ALLVARLIG nackademin.java.Terminal MainMenu - User tried an invalid command: 
+2016-12-22 16:08:38 INFO   nackademin.java.Terminal MainMenu - User input: search
+2016-12-22 16:08:44 INFO   nackademin.java.Terminal MainMenu - User input: search
+2016-12-22 16:08:56 INFO   nackademin.java.Terminal MainMenu - User input: search
+2016-12-22 16:09:02 INFO   nackademin.java.Terminal MainMenu - User input: search
+2016-12-22 16:09:11 INFO   nackademin.java.Terminal MainMenu - Successfully terminated program.
+2016-12-22 16:29:19 INFO   nackademin.java.RunApplication startProgram - Program started.
+2016-12-22 16:29:22 INFO   nackademin.java.Terminal MainMenu - Successfully terminated program.
+2016-12-22 16:29:27 INFO   nackademin.java.RunApplication startProgram - Program started.
+2016-12-22 16:29:32 INFO   nackademin.java.AutoSaver lambda$autoSave$0 - Autosave complete.
+2017-01-06 17:25:07 INFO   nackademin.java.RunApplication startProgram - Program started.
+2017-01-06 17:25:13 INFO   nackademin.java.AutoSaver lambda$autoSave$0 - Autosave complete.
+2017-01-06 17:25:18 INFO   nackademin.java.AutoSaver lambda$autoSave$0 - Autosave complete.
+2017-01-06 17:25:23 INFO   nackademin.java.AutoSaver lambda$autoSave$0 - Autosave complete.
+2017-01-06 17:25:28 INFO   nackademin.java.AutoSaver lambda$autoSave$0 - Autosave complete.
+2017-01-06 17:25:33 INFO   nackademin.java.AutoSaver lambda$autoSave$0 - Autosave complete.
+2017-01-06 17:25:38 INFO   nackademin.java.AutoSaver lambda$autoSave$0 - Autosave complete.
+2017-01-06 17:25:43 INFO   nackademin.java.AutoSaver lambda$autoSave$0 - Autosave complete.
+2017-01-06 17:25:48 INFO   nackademin.java.AutoSaver lambda$autoSave$0 - Autosave complete.
+2017-01-06 17:25:53 INFO   nackademin.java.AutoSaver lambda$autoSave$0 - Autosave complete.
+2017-01-06 17:25:58 INFO   nackademin.java.AutoSaver lambda$autoSave$0 - Autosave complete.
+2017-01-06 17:26:58 INFO   nackademin.java.RunApplication startProgram - Program started.
+2017-01-06 17:27:03 INFO   nackademin.java.AutoSaver lambda$autoSave$0 - Autosave complete.
+2017-01-06 17:27:08 INFO   nackademin.java.AutoSaver lambda$autoSave$0 - Autosave complete.
+2017-01-06 17:27:13 INFO   nackademin.java.AutoSaver lambda$autoSave$0 - Autosave complete.
+2017-01-06 17:27:18 ALLVARLIG nackademin.java.Terminal MainMenu - User tried an invalid command: 
+2017-01-06 17:27:18 INFO   nackademin.java.AutoSaver lambda$autoSave$0 - Autosave complete.
+2017-01-06 17:27:23 INFO   nackademin.java.AutoSaver lambda$autoSave$0 - Autosave complete.
+2017-01-06 17:27:28 INFO   nackademin.java.AutoSaver lambda$autoSave$0 - Autosave complete.
+2017-01-06 17:28:25 INFO   nackademin.java.RunApplication startProgram - Program started.
+2017-01-06 17:29:12 INFO   nackademin.java.RunApplication startProgram - Program started.
+2017-01-06 18:50:32 INFO   nackademin.java.RunApplication startProgram - Program started.
+2017-01-06 18:50:42 INFO   nackademin.java.RunApplication startProgram - Program started.
+2017-01-06 19:29:22 INFO   nackademin.java.RunApplication startProgram - Program started.
+2017-01-06 19:30:42 INFO   nackademin.java.RunApplication startProgram - Program started.
+2017-01-06 19:30:49 INFO   nackademin.java.RunApplication startProgram - Program started.
+2017-01-06 19:31:08 INFO   nackademin.java.RunApplication startProgram - Program started.
+2017-01-06 19:31:57 INFO   nackademin.java.RunApplication startProgram - Program started.
+2017-01-06 19:32:57 INFO   nackademin.java.RunApplication startProgram - Program started.
+2017-01-06 19:39:15 INFO   nackademin.java.RunApplication startProgram - Program started.
+2017-01-07 16:39:24 INFO   nackademin.java.RunApplication startProgram - Program started.
+2017-01-07 16:40:05 INFO   nackademin.java.RunApplication startProgram - Program started.
+2017-01-07 16:40:34 INFO   nackademin.java.RunApplication startProgram - Program started.
+2017-01-07 16:43:10 INFO   nackademin.java.RunApplication startProgram - Program started.
+2017-01-07 16:43:29 INFO   nackademin.java.Terminal MainMenu - User input: help
+2017-01-07 16:43:37 INFO   nackademin.java.Terminal MainMenu - User input: list
+2017-01-07 16:43:45 INFO   nackademin.java.Terminal MainMenu - Successfully terminated program.
+2017-01-07 16:44:48 INFO   nackademin.java.RunApplication startProgram - Program started.
+2017-01-07 17:51:03 INFO   nackademin.java.RunApplication startProgram - Program started.
+2017-01-07 17:53:15 INFO   nackademin.java.RunApplication startProgram - Program started.
+2017-01-07 17:53:43 INFO   nackademin.java.RunApplication startProgram - Program started.
+2017-01-07 18:01:11 INFO   nackademin.java.RunApplication startProgram - Program started.
+2017-01-07 18:03:26 INFO   nackademin.java.RunApplication startProgram - Program started.
+2017-01-07 18:09:34 INFO   nackademin.java.RunApplication startProgram - Program started.
+2017-01-07 18:09:48 INFO   nackademin.java.RunApplication startProgram - Program started.
+2017-01-07 18:10:08 INFO   nackademin.java.RunApplication startProgram - Program started.
+2017-01-08 16:37:17 INFO   nackademin.java.RunApplication startProgram - Program started.
+2017-01-08 16:46:21 INFO   nackademin.java.RunApplication startProgram - Program started.
+2017-01-08 16:52:07 INFO   nackademin.java.RunApplication startProgram - Program started.
+2017-01-08 17:01:31 INFO   nackademin.java.RunApplication startProgram - Program started.
+2017-01-08 17:05:05 INFO   nackademin.java.RunApplication startProgram - Program started.
+2017-01-08 17:07:23 INFO   nackademin.java.RunApplication startProgram - Program started.
+2017-01-08 17:08:23 INFO   nackademin.java.RunApplication startProgram - Program started.
+2017-01-08 23:15:09 INFO   nackademin.java.RunApplication startProgram - Program started.

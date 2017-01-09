@@ -1,17 +1,22 @@
 package nackademin.java;
 
 import java.io.Serializable;
+import java.util.ArrayList;
 import java.util.Scanner;
 import java.util.logging.*;
 
-
-
 public class Terminal extends TerminalMessage implements Serializable{
     private static final Logger logger = Logger.getLogger(Terminal.class.getName());
+
+
+
     public void MainMenu(){
+        Client databaseContacts = new Client();
         Register register = new Register();
         AutoSaver autoSaver = new AutoSaver();
         autoSaver.autoSave(register.contactList);
+        Client client = new Client();
+        client.serverConnect();
         register.fileContactToContactList();
         while(true){
             try {

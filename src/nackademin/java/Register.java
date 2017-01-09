@@ -35,11 +35,10 @@ public class Register implements Serializable{
     }
 
     public void list(){
-        for (Contact contact : contactList){        // <---- Om lista är tom, returna true, inom if{} displaya "listan är tom"
-            if(contactList.isEmpty()) {
-               messenger.errListMsg();
-               return;
-            }else {
+        if(contactList.isEmpty()) {
+            messenger.errListMsg();
+        }else{
+            for (Contact contact : contactList){        // <---- Om lista är tom, returna true, inom if{} displaya "listan är tom"
                 contact.showDetails();
                 messenger.contactDetailMessage();
             }

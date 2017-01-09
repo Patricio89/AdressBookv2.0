@@ -5,7 +5,6 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 
 public class AutoSaver {
-   // Register register = new Register();
     SerializeContacts serialize = new SerializeContacts();
     private static Logger logger = Logger.getLogger(AutoSaver.class.getName());
     public void autoSave(ArrayList<Contact> contactList) {
@@ -14,7 +13,7 @@ public class AutoSaver {
                 try {
                     Thread.sleep(5000);
                     serialize.save(contactList);
-                    // logger.info("Autosave complete.");
+                  //   logger.info("Autosave complete.");
                 } catch (InterruptedException ex) {
                 logger.log(Level.SEVERE,"Autosave got interrupted.", ex);
                 }
