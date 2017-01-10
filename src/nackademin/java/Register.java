@@ -7,13 +7,19 @@ import java.util.Iterator;
 public class Register implements Serializable{
 
     SerializeContacts fileManager = new SerializeContacts();
+    Client client = new Client();
     ArrayList<Contact> contactList = new ArrayList<>();
+    ArrayList<Contact> serverContactList = new ArrayList<>();
 
     Contact contact;
     TerminalMessage messenger = new TerminalMessage();
 
     public void fileContactToContactList(){
         contactList.addAll(fileManager.load());
+    }
+
+    public void getServerList(ArrayList<Contact> serverContactList){
+
     }
 
     public void add(String name, String surName, String email){         //check

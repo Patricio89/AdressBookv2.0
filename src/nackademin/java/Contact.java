@@ -7,7 +7,17 @@ public class Contact implements Serializable{
     private String firstName;
     private String lastName;
     private String email;
+    private String remoteID;
     private UUID id;
+
+
+
+    public Contact(String id, String firstName, String lastName, String email){
+        this.remoteID = id;
+        this.firstName = firstName;
+        this.lastName = lastName;
+        this.email = email;
+    }
 
     public Contact(String firstName, String lastName, String email) {
         generateID();

@@ -201,3 +201,18 @@
 2017-01-08 17:07:23 INFO   nackademin.java.RunApplication startProgram - Program started.
 2017-01-08 17:08:23 INFO   nackademin.java.RunApplication startProgram - Program started.
 2017-01-08 23:15:09 INFO   nackademin.java.RunApplication startProgram - Program started.
+2017-01-10 15:00:58 INFO   nackademin.java.RunApplication startProgram - Program started.
+2017-01-10 15:01:23 INFO   nackademin.java.RunApplication startProgram - Program started.
+2017-01-10 15:01:42 INFO   nackademin.java.Terminal MainMenu - Successfully terminated program.
+2017-01-10 15:01:55 INFO   nackademin.java.RunApplication startProgram - Program started.
+2017-01-10 17:19:34 INFO   nackademin.java.RunApplication startProgram - Program started.
+2017-01-10 17:27:06 INFO   nackademin.java.RunApplication startProgram - Program started.
+2017-01-10 17:29:36 INFO   nackademin.java.RunApplication startProgram - Program started.
+2017-01-10 18:00:37 INFO   nackademin.java.RunApplication startProgram - Program started.
+2017-01-10 21:05:05 INFO   nackademin.java.RunApplication startProgram - Program started.
+2017-01-10 21:05:34 INFO   nackademin.java.RunApplication startProgram - Program started.
+2017-01-10 21:38:31 INFO   nackademin.java.RunApplication startProgram - Program started.
+2017-01-10 21:38:48 INFO   nackademin.java.RunApplication startProgram - Program started.
+2017-01-10 21:39:38 INFO   nackademin.java.RunApplication startProgram - Program started.
+2017-01-10 21:40:02 INFO   nackademin.java.RunApplication startProgram - Program started.
+2017-01-10 21:52:41 INFO   nackademin.java.RunApplication startProgram - Program started.

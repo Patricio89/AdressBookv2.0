@@ -11,12 +11,11 @@ public class Terminal extends TerminalMessage implements Serializable{
 
 
     public void MainMenu(){
-        Client databaseContacts = new Client();
         Register register = new Register();
+        Client client = new Client();
+        client.connectToServer();
         AutoSaver autoSaver = new AutoSaver();
         autoSaver.autoSave(register.contactList);
-        Client client = new Client();
-        client.serverConnect();
         register.fileContactToContactList();
         while(true){
             try {

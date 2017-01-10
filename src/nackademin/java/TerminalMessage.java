@@ -10,6 +10,7 @@ public class TerminalMessage {
     public void contactDetailMessage(){
         System.out.println("\nEnd of contact details.\n------------------------------------------------");
     }
+
     public void searchMessage(){
         System.out.println("\nSearch complete.");
     }
@@ -25,6 +26,7 @@ public class TerminalMessage {
     public void errAdd(){
         System.err.println("An error occured during the add function.\nMake sure you enter 3 parameters for this funtion.");
     }
+
     public void errDelete(){
         System.err.println("An error occured during the delete function.");
     }
