@@ -11,7 +11,6 @@ public class Contact implements Serializable{
     private UUID id;
 
 
-
     public Contact(String id, String firstName, String lastName, String email){
         this.remoteID = id;
         this.firstName = firstName;
@@ -43,11 +42,21 @@ public class Contact implements Serializable{
         return id;
     }
 
+    public String getRemoteID() {
+        return remoteID;
+    }
+
     public void generateID(){
         this.id = UUID.randomUUID();
     }
 
+
+
     public void showDetails(){
         System.out.println("Contact ID: " + getId() + "\nFirst name: " + getFirstName() + "\nLast Name: " + getLastName() + "\nEmail: " + getEmail());
+    }
+
+    public void remoteShowDetails(){
+        System.out.println("Contact ID: " + getRemoteID() + "\nFirst name: " + getFirstName() + "\nLast Name: " + getLastName() + "\nEmail: " + getEmail());
     }
 }

@@ -13,10 +13,14 @@ public class Terminal extends TerminalMessage implements Serializable{
     public void MainMenu(){
         Register register = new Register();
         Client client = new Client();
-        client.connectToServer();
+        new Thread(() -> {
+            client.connectToServer();
+            register.getServerList(client.getCentralContacts());
+        }).start();
         AutoSaver autoSaver = new AutoSaver();
         autoSaver.autoSave(register.contactList);
         register.fileContactToContactList();
+
         while(true){
             try {
                 Scanner userInput = new Scanner(System.in);

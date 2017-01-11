@@ -1,6 +1,7 @@
 package nackademin.java;
 
 import java.io.*;
+import java.net.ConnectException;
 import java.net.Socket;
 import java.util.ArrayList;
 import java.util.List;
@@ -9,8 +10,8 @@ public class Client{
     private Socket clientSocket;
     private PrintWriter writer;
     private BufferedReader reader;
-    private String tempStr;
 
+    private ArrayList<Contact> centralContacts = new ArrayList<>();
 
     public void connectToServer(){
         try {
@@ -18,6 +19,9 @@ public class Client{
             clientSocket.setSoTimeout(10000);
             setupCommunication();
             storeData();
+        } catch (ConnectException ex){
+            System.out.println("Connection refused, server might be down.");
+            ex.printStackTrace();
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -31,22 +35,26 @@ public class Client{
         }
     }
 
-    public List<Contact> storeData(){
-        String serverData = null;
+    public void storeData(){
+        String serverData;
         String[] stringSplitter;
-        List<Contact> centralContacts = new ArrayList<>();
         sendRequest();
         try {
-            while ((tempStr = reader.readLine()) != null) {
-                serverData += tempStr;
-                stringSplitter = serverData.split(" ");
-                Contact contact = new Contact(stringSplitter[0], stringSplitter[1], stringSplitter[2], stringSplitter[3]);
-                centralContacts.add(contact);
+            for (serverData = reader.readLine(); serverData != null; serverData = reader.readLine()){
+                if (serverData.equals("")){
+                    break;
                 }
+                //System.out.println(serverData);
+                stringSplitter = serverData.split(" ");
+
+                Contact contact = new Contact(stringSplitter[0], stringSplitter[1], stringSplitter[2], stringSplitter[3]);
+                             centralContacts.add(contact);
+            }
+            closeConnection();
+
             } catch(IOException e){
                 e.printStackTrace();
             }
-            return centralContacts;
     }
 
     private void sendRequest(){
@@ -54,7 +62,21 @@ public class Client{
         writer.flush();
     }
 
-    public void getRemoteRegistryContent(){
+    public ArrayList<Contact> getCentralContacts() {
+        return centralContacts;
+    }
 
+    public void closeConnection(){
+        writer.println("exit");
+        writer.flush();
+
+        writer.close();
+        try {
+            reader.close();
+            clientSocket.close();
+        }catch (IOException ex){
+            ex.printStackTrace();
+        }
     }
 }
+
